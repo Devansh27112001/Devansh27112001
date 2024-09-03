@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full-stack project<br>🌱 I’m currently learning Redis, Next Js and AWS<br>💬 Ask me about Front-end development <br>⚡ Fun fact: I have a great sense of humour<br>✅ I am always eager to learn new things
+🔭 I’m currently working on a full-stack project using React.js, Node.js, Express.js, Stripe, Redis and MongoDB<br>🌱 I’m currently learning Redis, Next Js and AWS<br>💬 Ask me about Front-end development <br>⚡ Fun fact: I have a great sense of humour<br>✅ I am always eager to learn new things
 
 
 ## 🌐 Socials:
