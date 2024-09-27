@@ -12,8 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devansh27112001&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh27112001&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
 ---
+###
 [![](https://visitcount.itsvg.in/api?id=Devansh27112001&icon=3&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img height=200 src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=ecf05e47j9qz168g6y13g2a8qa884plkr4p74oipt01zrqdx&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</div>
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/Devansh27112001/Devansh27112001/output/github-contribution-grid-snake-dark.svg)
